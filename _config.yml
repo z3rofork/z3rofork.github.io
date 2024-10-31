@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: (🐱)  # blog_name will be displayed in your blog page
-blog_description: 没日没夜地生产学术垃圾 ｡ﾟ(₌இᆽஇ₌)ﾟ｡
+blog_description: 没日没夜地生产学术垃圾
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
