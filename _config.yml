@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ̷(̷ ̷=̷🝦 ̷༝̷ ̷🝦 ̷=̷ ̷)̷ # the website title (if blank, full name will be used instead)
+title: (🐱) # the website title (if blank, full name will be used instead)
 first_name: z3ro
 middle_name: .
 last_name: fork
@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: (̷ ̷=̷🝦 ̷༝̷ ̷🝦 ̷=̷ ̷)̷  # blog_name will be displayed in your blog page
+blog_name: (🐱)  # blog_name will be displayed in your blog page
 blog_description: 没日没夜地生产学术垃圾 ｡ﾟ(₌இᆽஇ₌)ﾟ｡
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
